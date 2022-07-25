@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center"
+        android:background="@drawable/backg_logo_4">
+
+        <TextView
+            android:id="@+id/tv_module"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="M1"
+            android:textSize="14pt"
+            android:textColor="#fff"
+            android:background="@color/color_4"/>
+
+        <TextView
+            android:id="@+id/tv_titre_module"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="Datamining"
+            android:textSize="7pt"
+            android:textColor="#fff"
+            android:background="@color/color_2"/>
+
+        <TextView
+            android:id="@+id/tv_note"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="19.75"
+            android:textSize="14pt"
+            android:textColor="#fff"
+            android:background="@color/color_2"/>
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

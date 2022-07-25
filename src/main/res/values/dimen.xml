@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_btn_size">10pt</dimen>
+    <dimen name="font_titre_size">12pt</dimen>
+
+</resources>

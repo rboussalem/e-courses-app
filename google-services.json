@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895957428385",
+    "firebase_url": "https://cours-mit.firebaseio.com",
+    "project_id": "cours-mit",
+    "storage_bucket": "cours-mit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895957428385:android:34e94c4b77c35354",
+        "android_client_info": {
+          "package_name": "com.example.coursfsr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895957428385-j7189gms7idss68a33s6n5fv1kp5fflm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coursfsr",
+            "certificate_hash": "db59ce05f70e5d398d4d7b630789a99e740cd73f"
+          }
+        },
+        {
+          "client_id": "895957428385-bg8h28vk59rgje44faa04a2kmu141bvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZb6KgBoOnZIVBzmrJrmt5tmTUOn2sTOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895957428385-bg8h28vk59rgje44faa04a2kmu141bvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

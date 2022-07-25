@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cours MIT</string>
+    <string name="btn_cours">Cours</string>
+    <string name="btn_favorite">Favorite</string>
+    <string name="btn_about">About</string>
+    <string name="btn_websiteit">Web Site MIT</string>
+    <string name="btn_notes">Notes</string>
+    <string name="btn_exite">LogOut</string>
+
+
+    <string name="btn_connexion">Connexion</string>
+    <string name="btn_ouvrircompte">Ouvrir un compte</string>
+
+    <string name="about">
+        Master recherche Informatique et Telecommunication Rabat\n
+        MIT 2018-2019\n\n
+        Realiser par :\nLAARIBI Anass \nBOUSSALEM Radoune\n\n
+        Proposee par :\nPr.OUADOU Mourad
+
+    </string>
+
+
+
+    <string name="m1">Systèmes répartis</string>
+    <string name="m2">Datamining  Réseaux de neurones</string>
+    <string name="m3">Ingénierie dirigée par les modèles</string>
+    <string name="m4">Traitement numérique du signal</string>
+    <string name="m5">Architectures avancées</string>
+    <string name="m6">Anglais scientifique</string>
+
+
+</resources>
